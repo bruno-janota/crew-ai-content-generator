@@ -1,0 +1,45 @@
+monitor_ai_trends:
+  description: >
+    Monitor and analyze the latest developments in AI, machine learning, and generative AI 
+    with a focus on {subject}. Identify and summarize the most relevant research papers, 
+    industry trends, and emerging technologies that could influence AI practitioners and 
+    business leaders.
+  expected_output: >
+    A structured research summary highlighting key AI advancements related to {subject}. 
+    The summary should include major breakthroughs, applications, and implications for AI adoption.
+
+analyze_ai_research:
+  description: >
+    Conduct a deep analysis of AI/ML research papers, case studies, and real-world 
+    implementations related to {subject}. Extract key findings, benchmarks, 
+    and methodologies to assess their practical value.
+  expected_output: >
+    A detailed synthesis of AI research on {subject}, including comparisons of models, trade-offs, 
+    and business implications.
+
+create_ai_content:
+  description: >
+    Using insights from AI Trend Monitoring and AI Research Analysis, develop 
+    high-quality, engaging content that educates and informs the target audience 
+    about {subject}. Create various content formats, including in-depth blog 
+    posts, LinkedIn articles, and social media updates.
+  expected_output: >
+    A structured, well-written content draft related to {subject}, formatted for clarity 
+    and readability, with supporting examples and industry relevance.
+
+content_optimization:
+  description: >
+    Optimize AI content for engagement, clarity, and searchability. Ensure that blog posts 
+    and LinkedIn content are well-structured, include relevant keywords, and follow best 
+    practices for audience engagement.
+  expected_output: >
+    A refined version of the content with enhanced readability, improved structure, 
+    and platform-specific optimizations for LinkedIn and blog audiences.
+
+quality_assurance:
+  description: >
+    Review and refine the content created on {subject} to ensure it meets high 
+    standards of accuracy, clarity, and brand alignment. Thoroughly proofread, 
+    verify technical accuracy, and ensure consistency in tone and messaging.
+  expected_output: >
+    A finalized, polished version of the AI content on {subject}, ready for publication.
