@@ -3,7 +3,7 @@ An multi-agent system for **AI research, writing, and content optimization** usi
 
 ---
 
-### **🛠️ Installation
+### 🛠️ Installation
 Ensure you have **Conda** installed. If you don’t have it, download and install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/products/distribution).
 
 #### **Create and Activate a Conda Environment**
@@ -46,7 +46,7 @@ This will:
 │   ├── agents.yaml                 # AI agent configurations (roles, goals, backstories)
 │   ├── tasks.yaml                  # Definitions of tasks for each AI agent
 │── crewai_content_creation.py      # Main notebook to run the AI-powered content generation pipeline
-│── helper.py                       # Helper script to load env variables with OpenAI API key or other scripts in the future
+│── helpers.py                       # Helper script to load env variables with OpenAI API key or other scripts in the future
 │── requirements.txt                # Dependencies for the project
 │── README.md                       # Project documentation
 ```
@@ -81,17 +81,6 @@ After running the pipeline, you’ll get:
   ]
 }
 ```
-
----
-
-## **💡 Contributing**
-Want to improve this AI pipeline? Feel free to **fork the repo, submit PRs, or suggest new features!** 🚀  
-
----
-
-## **📜 License**
-This project is licensed under the **MIT License** – feel free to modify and use it as needed.
-
 ---
 
 ## **👥 Connect & Follow**
