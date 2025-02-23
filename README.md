@@ -87,4 +87,4 @@ After running the pipeline, you’ll get:
 Follow along for updates and discussions!  
 
 📌 **LinkedIn:** [Bruno Janota](https://www.linkedin.com/in/bjanota/)  
-📌 **Blog Post:** [Coming Soon]  
+📌 **Blog Post:** [How to Become an AI Thought Leader with CrewAI and $0.50 in OpenAI Credits](https://www.linkedin.com/pulse/how-become-ai-thought-leader-crewai-050-openai-credits-bruno-janota-rogie) 
