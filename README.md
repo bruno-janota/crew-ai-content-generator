@@ -64,8 +64,8 @@ Modify `tasks.yaml` to **add, remove, or tweak** tasks in the content pipeline.
 
 ## **📌 Example Output**
 After running the pipeline, you’ll get:
+
 ✅ **Blog Post (Markdown)**  
-✅ **Key Takeaways & References**  
 ✅ **Social Media Posts (LinkedIn, Twitter, etc.)**  
 
 ```
